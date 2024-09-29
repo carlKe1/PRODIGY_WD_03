@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Web Application in Django
+# Tic-Tac-Toe Web Application 
 Tic-Tac-Toe Web Application
 
 Tic-Tac-Toe Web Application with Django
